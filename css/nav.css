@@ -1,0 +1,14 @@
+nav {
+    background-color: hsl(0,0%,20%);
+    padding: 15px 30px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+nav a {
+    color: white;
+}
+.menu {
+    color: hsl(0,0%,80%);
+    float: right;
+}
